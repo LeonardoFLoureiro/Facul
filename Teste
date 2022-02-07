@@ -1,1 +1,21 @@
+import java.util.*;
+class  Numeros{
 
+	public static Scanner sc =
+			new Scanner(System.in);
+	
+	public static void main (String args[]){
+
+        
+    }
+		
+   
+       
+
+
+
+
+
+		
+		
+}
